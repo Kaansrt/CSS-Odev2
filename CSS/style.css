@@ -1,0 +1,87 @@
+body
+{
+    margin: 0px;
+}
+.googlePhoto{
+    margin-top: 30px;
+    text-align: center;
+}
+.bg
+{
+    width: 1400px;
+    margin: auto;
+    position: relative;
+    background-color: rgb(231, 228, 228);
+    text-align: center;
+    padding-bottom: 0px;
+}
+.search{
+    font-weight: 550;
+    margin-bottom: 5px;
+}
+.inputwidth{
+    width: 300px;
+    border: 1px;
+    border-radius: 4px;
+}
+.buttons{
+    margin-top: 5px;
+    width: 120px;
+}
+.altsayfa
+{
+    
+    margin: auto;
+    position: relative;
+    width: 1400px;
+    
+}
+.parca1
+{
+    background-color: aquamarine;
+    text-align: center;
+    float: left;
+    width: 33%;
+    height: 95px;
+    margin-right: 5px;
+    padding-bottom: 10px;
+    
+}
+.parca2
+{
+    background-color: aquamarine;
+    text-align: center;
+    float: left;
+    width: 33%;
+    margin-right: 5px;
+}
+.parca3
+{
+    background-color: aquamarine;
+    text-align: center;
+    float: left;
+    width: 33%;
+    height: 105px;
+}
+.lists{
+    list-style: none;
+}
+/* .parca
+{    position: relative;
+    margin: auto;
+    text-align: center;
+    background-color: aqua;
+   
+    width: 33%;
+    height: 90px;
+    float: left;
+    padding-left: ;
+} */
+
+.special{
+    margin-bottom: 0px;
+}
+
+.buttonp{
+    margin-bottom: 0px;
+}
